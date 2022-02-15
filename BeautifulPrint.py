@@ -8,7 +8,7 @@ Author: tankalxat34
 Description:
     This module can colorizing any text in your terminal
 Contacts:
-    - github: https://github.com/tankalxat34/
+    - github: https://github.com/tankalxat34/BeautifulPrint
     - email: mailto:tankalxat34@gmail.com?subject=User%20of%20UploadgramPyAPI
     - telegram: https://t.me/tankalxat34
 """
@@ -137,6 +137,7 @@ class bprint:
 
 
 def binput(text, *args):
+    """Colorizing the input"""
     user_args = ""
     for arg in args:
         user_args += arg

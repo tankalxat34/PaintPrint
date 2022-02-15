@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 *.html
-test.py
 .idea
 *.bat
+test.py
