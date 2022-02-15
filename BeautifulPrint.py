@@ -14,10 +14,16 @@ Contacts:
 """
 import os
 
+
 def neutralizeColorProblem():
     """If you see incomprehensible symbols instead of colors in the console, 
     perform this function at the beginning of your code"""
     os.system("cls")
+
+def hex_to_rgb(value):
+    value = value.lstrip('#')
+    lv = len(value)
+    return tuple(int(value[i:i+lv//3], 16) for i in range(0, lv, lv//3))
 
 
 class UserColor:
@@ -26,6 +32,9 @@ class UserColor:
             self.index_color = color
             if isinstance(self.index_color, int):
                 self.color = '\033[38;5;'+str(self.index_color)+'m'
+            elif isinstance(self.index_color, str):
+                self.index_color = hex_to_rgb(self.index_color)
+                self.color = f'\033[38;2;{self.index_color[0]};{self.index_color[1]};{self.index_color[2]}m'
             else:
                 self.color = f'\033[38;2;{self.index_color[0]};{self.index_color[1]};{self.index_color[2]}m'
 
@@ -36,9 +45,12 @@ class UserColor:
         def __init__(self, color):
             self.index_color = color
             if isinstance(self.index_color, int):
-                self.color = '\033[38;5;' + str(self.index_color) + 'm'
+                self.color = '\033[48;5;' + str(self.index_color) + 'm'
+            elif isinstance(self.index_color, str):
+                self.index_color = hex_to_rgb(self.index_color)
+                self.color = f'\033[48;2;{self.index_color[0]};{self.index_color[1]};{self.index_color[2]}m'
             else:
-                self.color = f'\033[38;5;{self.index_color[0]};{self.index_color[1]};{self.index_color[2]}m'
+                self.color = f'\033[48;2;{self.index_color[0]};{self.index_color[1]};{self.index_color[2]}m'
 
         def get(self):
             return self.color

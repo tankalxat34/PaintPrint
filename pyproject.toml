@@ -4,8 +4,8 @@ version = "1.0"
 description = "This module can colorizing any text in your terminal"
 authors = ["tankalxat34"]
 readme = "README.md"
-homepage = "https://github.com/tankalxat34/UploadgramPyAPI"
-repository = "https://github.com/tankalxat34/UploadgramPyAPI"
+homepage = "https://github.com/tankalxat34/BeautifulPrint"
+repository = "https://github.com/tankalxat34/BeautifulPrint"
 
 
 [tool.poetry.dependencies]
