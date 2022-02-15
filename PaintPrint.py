@@ -8,9 +8,12 @@ Author: tankalxat34
 Description:
     This module can colorize any text in your terminal
 Contacts:
-    - github: https://github.com/tankalxat34/BeautifulPrint
-    - email: mailto:tankalxat34@gmail.com?subject=User%20of%20UploadgramPyAPI
-    - telegram: https://t.me/tankalxat34
+    - github:       https://github.com/tankalxat34/BeautifulPrint
+    - email:        mailto:tankalxat34@gmail.com?subject=User%20of%20PaintPrint
+    - telegram:     https://t.me/tankalxat34
+Links:
+    - pypi.org:     https://pypi.org/project/PaintPrint/
+    - pepy.tech:    https://pepy.tech/project/PaintPrint/
 """
 import os
 
