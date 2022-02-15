@@ -1,9 +1,9 @@
-# BeautifulPrint
-This module can colorizing any text in your terminal
+# PaintPrint
+This module can colorize any text in your terminal
 
 # Installing
 ```bat
-pip install BeautifulPrint
+pip install PaintPrint
 ```
 
 # Quick start
@@ -11,7 +11,7 @@ pip install BeautifulPrint
 ## Hello world
 This is a simple hello world:
 ```python
-from BeautifulPrint import *
+from PaintPrint import *
 
 bprint("Hello world!", 
        FORMATTING.BOLD, 
@@ -25,7 +25,7 @@ In your console you can see something like this:
 ## Unreadable symbols
 If you see incomprehensible symbols instead of colors in the console, perform this function at the beginning of your code:
 ```python
-from BeautifulPrint import *
+from PaintPrint import *
 neutralizeColorProblem()
 ```
 
@@ -33,7 +33,7 @@ neutralizeColorProblem()
 In this module you can use some templates for beautiful print on terminal:
 
 ```python
-from BeautifulPrint import *
+from PaintPrint import *
 
 bprint("TEMPLATES", 
        FORMATTING.BORDERED, 
@@ -52,9 +52,9 @@ print("If you like " + bformat("black and white", TEMPLATE.BLACKWHITE1) + " or "
 
 # All functions
 
-Install `BeautifulPrint` in perform this code on your PC:
+Install `PaintPrint` in perform this code on your PC:
 ```python
-from BeautifulPrint import *
+from PaintPrint import *
 neutralizeColorProblem()
 
 bprint("TEMPLATES",
@@ -77,7 +77,7 @@ bprint("COLORS - BACKGROUND",
        FOREGROUND.MAGENTA,
        BACKGROUND.WHITE)
 
-print("In " + bformat("BeautifulPrint", TEMPLATE.BLACKWHITE1) + " you can find " + bformat("10", FOREGROUND.GREEN)+ " backgrounds and foregrounds:")
+print("In " + bformat("PaintPrint", TEMPLATE.BLACKWHITE1) + " you can find " + bformat("10", FOREGROUND.GREEN)+ " backgrounds and foregrounds:")
 bprint("BACKGROUNDS", FORMATTING.BORDERED)
 bprint("Red", BACKGROUND.RED, end="\t")
 bprint("Green", BACKGROUND.GREEN)

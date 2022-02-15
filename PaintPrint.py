@@ -1,12 +1,12 @@
 """
 ********************************
 *------------------------------*
-*--------beautifulprint--------*
+*----------PaintPrint----------*
 *------------------------------*
 ********************************
 Author: tankalxat34
 Description:
-    This module can colorizing any text in your terminal
+    This module can colorize any text in your terminal
 Contacts:
     - github: https://github.com/tankalxat34/BeautifulPrint
     - email: mailto:tankalxat34@gmail.com?subject=User%20of%20UploadgramPyAPI
