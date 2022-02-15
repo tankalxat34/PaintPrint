@@ -4,8 +4,8 @@ version = "1.0"
 description = "This module can colorize any text in your terminal"
 authors = ["tankalxat34 <tankalxat34@gmail.com>"]
 readme = "README.md"
-# homepage = "https://github.com/tankalxat34/BeautifulPrint"
-# repository = "https://github.com/tankalxat34/BeautifulPrint"
+homepage = "https://github.com/tankalxat34/PaintPrint"
+repository = "https://github.com/tankalxat34/PaintPrint"
 
 [tool.poetry.dependencies]
 python = "^3.6"
