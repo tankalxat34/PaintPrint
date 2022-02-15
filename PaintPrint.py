@@ -8,7 +8,7 @@ Author: tankalxat34
 Description:
     This module can colorize any text in your terminal
 Contacts:
-    - github:       https://github.com/tankalxat34/BeautifulPrint
+    - github:       https://github.com/tankalxat34/PaintPrint
     - email:        mailto:tankalxat34@gmail.com?subject=User%20of%20PaintPrint
     - telegram:     https://t.me/tankalxat34
 Links:
