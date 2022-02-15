@@ -20,7 +20,7 @@ bprint("Hello world!",
 ```
 In your console you can see something like this:
 
-<img src="/mdcontent/src1.png"/>
+<img src="https://github.com/tankalxat34/PaintPrint/blob/main/mdcontent/src1.png"/>
 
 ## Unreadable symbols
 If you see incomprehensible symbols instead of colors in the console, perform this function at the beginning of your code:
@@ -48,7 +48,7 @@ print("You also can write " + bformat("yes", TEMPLATE.YES) + " and " + bformat("
 print("If you like " + bformat("black and white", TEMPLATE.BLACKWHITE1) + " or " + bformat("white and black", TEMPLATE.BLACKWHITE2) + " you can using special templates!")
 ```
 
-<img src="/mdcontent/src2.png"/>
+<img src="https://github.com/tankalxat34/PaintPrint/blob/main/mdcontent/src2.png"/>
 
 # All functions
 
@@ -146,4 +146,4 @@ bprint("\t\tPrint by HEX without #-symbol", UserColor.BACKGROUND("960FF0").get()
 
 You will see something like this:
 
-<img src="/mdcontent/srcFULL.png"/>
+<img src="https://github.com/tankalxat34/PaintPrint/blob/main/mdcontent/srcFULL.png"/>
