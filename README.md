@@ -20,7 +20,7 @@ bprint("Hello world!",
 ```
 In your console you can see something like this:
 
-<img src="https://github.com/tankalxat34/PaintPrint/blob/main/mdcontent/src1.png"/>
+<img src="https://sun9-51.userapi.com/impg/IT0eADkdwaa9P-ioqdvS5odxwRDkMQovT0Wflw/issddN7LQOs.jpg?size=1009x432&quality=96&sign=9ef43db819f6b795dea2736da8856808&type=album"/>
 
 ## Unreadable symbols
 If you see incomprehensible symbols instead of colors in the console, perform this function at the beginning of your code:
@@ -48,7 +48,7 @@ print("You also can write " + bformat("yes", TEMPLATE.YES) + " and " + bformat("
 print("If you like " + bformat("black and white", TEMPLATE.BLACKWHITE1) + " or " + bformat("white and black", TEMPLATE.BLACKWHITE2) + " you can using special templates!")
 ```
 
-<img src="https://github.com/tankalxat34/PaintPrint/blob/main/mdcontent/src2.png"/>
+<img src="https://sun9-32.userapi.com/impg/LannX-z_IBqLVLfRX9wGq2xDy7CihWleznmfkw/M_3K9UTjZGA.jpg?size=1009x432&quality=96&sign=88fb94abe1bb88aa4426fb8cd3b14533&type=album"/>
 
 # All functions
 
@@ -146,4 +146,4 @@ bprint("\t\tPrint by HEX without #-symbol", UserColor.BACKGROUND("960FF0").get()
 
 You will see something like this:
 
-<img src="https://github.com/tankalxat34/PaintPrint/blob/main/mdcontent/srcFULL.png"/>
+<img src="https://sun9-40.userapi.com/impg/xmSdO8_KIXiy1GmUuijwTmw4sLI9vlOW6UGs9Q/XTWsALYsDss.jpg?size=1009x964&quality=96&sign=f5955bd4b800f18ff5798d1d762d3bc9&type=album"/>
