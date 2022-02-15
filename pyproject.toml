@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "PaintPrint"
-version = "1.0.3"
+version = "1.0.4"
 description = "This module can colorize any text in your terminal"
 authors = ["tankalxat34 <tankalxat34@gmail.com>"]
 readme = "README.md"
