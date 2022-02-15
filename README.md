@@ -5,7 +5,7 @@ This module can colorize any text in your terminal
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/tankalxat34/PaintPrint?style=social)](https://github.com/tankalxat34/PaintPrint)
 
-**Author: [tankalxat34](mailto:tankalxat34@gmail.com?subject=User%20of%20UploadgramPyAPI)**
+**Author: [tankalxat34](mailto:tankalxat34@gmail.com?subject=User%20of%20PaintPrint)**
 
 # Installing
 ```bat
