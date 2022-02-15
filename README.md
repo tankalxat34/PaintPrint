@@ -48,8 +48,11 @@ print("You also can write " + bformat("yes", TEMPLATE.YES) + " and " + bformat("
 print("If you like " + bformat("black and white", TEMPLATE.BLACKWHITE1) + " or " + bformat("white and black", TEMPLATE.BLACKWHITE2) + " you can using special templates!")
 ```
 
+Result:
+
 <img src="https://sun9-32.userapi.com/impg/LannX-z_IBqLVLfRX9wGq2xDy7CihWleznmfkw/M_3K9UTjZGA.jpg?size=1009x432&quality=96&sign=88fb94abe1bb88aa4426fb8cd3b14533&type=album"/>
 
 # All functions
+Open [test file](https://github.com/tankalxat34/PaintPrint/blob/main/test_PaintPrint.py) and perform in your PC. You will see something like this:
 
-<img src="https://sun9-40.userapi.com/impg/xmSdO8_KIXiy1GmUuijwTmw4sLI9vlOW6UGs9Q/XTWsALYsDss.jpg?size=1009x964&quality=96&sign=f5955bd4b800f18ff5798d1d762d3bc9&type=album"/>
+<img src="https://sun9-37.userapi.com/impg/NWYKY66TbieKB8XnhJmfrUvzwE9DQIeEwKApaQ/IOxQmPAm2Ys.jpg?size=1009x959&quality=96&sign=cd7ce7251d980a6cbbb8cea85c6d42d8&type=album"/>
