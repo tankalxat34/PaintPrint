@@ -1,6 +1,12 @@
 # PaintPrint
 This module can colorize any text in your terminal
 
+[![github](https://img.shields.io/badge/-git%20hub-black?style=for-the-badge&logo=github)](https://github.com/tankalxat34/PaintPrint)
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/tankalxat34/PaintPrint?style=social)](https://github.com/tankalxat34/PaintPrint)
+
+**Author: [tankalxat34](mailto:tankalxat34@gmail.com?subject=User%20of%20UploadgramPyAPI)**
+
 # Installing
 ```bat
 pip install PaintPrint
