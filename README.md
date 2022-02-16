@@ -1,6 +1,8 @@
 # PaintPrint
-This module can colorize any text in your terminal
 
+<div align="center">
+<img src="https://github.com/tankalxat34/PaintPrint/raw/main/logo_big2.png" width="500px"/>
+       
 [![Downloads](https://static.pepy.tech/personalized-badge/paintprint?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads)](https://pepy.tech/project/paintprint)
 [![Downloads](https://static.pepy.tech/personalized-badge/paintprint?period=month&units=international_system&left_color=grey&right_color=blue&left_text=downloads/month)](https://pepy.tech/project/paintprint)
 [![Downloads](https://static.pepy.tech/personalized-badge/paintprint?period=week&units=international_system&left_color=grey&right_color=blue&left_text=downloads/week)](https://pepy.tech/project/paintprint)
@@ -8,12 +10,16 @@ This module can colorize any text in your terminal
 [![Version](https://img.shields.io/pypi/v/PaintPrint)](https://pypi.org/project/paintprint)
 [![](https://img.shields.io/pypi/format/PaintPrint)](https://pypi.org/project/paintprint)
 [![](https://img.shields.io/pypi/wheel/PaintPrint)](https://pypi.org/project/paintprint)
+[![GitHub Repo stars](https://img.shields.io/github/stars/tankalxat34/PaintPrint?style=social)](https://github.com/tankalxat34/PaintPrint)
 
-
+<b>This module can colorize any text in your terminal</b>
+       
 [![github](https://img.shields.io/badge/-git%20hub-black?style=for-the-badge&logo=github)](https://github.com/tankalxat34/PaintPrint)
 [![PyPi](https://img.shields.io/badge/-pypi-006DAD?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/paintprint)
+</div>
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/tankalxat34/PaintPrint?style=social)](https://github.com/tankalxat34/PaintPrint)
+-----------
+
 
 **Author: [tankalxat34](mailto:tankalxat34@gmail.com?subject=User%20of%20PaintPrint)**
 
