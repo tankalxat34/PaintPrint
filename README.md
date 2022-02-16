@@ -1,7 +1,17 @@
 # PaintPrint
 This module can colorize any text in your terminal
 
+[![Downloads](https://static.pepy.tech/personalized-badge/paintprint?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads)](https://pepy.tech/project/paintprint)
+[![Downloads](https://static.pepy.tech/personalized-badge/paintprint?period=month&units=international_system&left_color=grey&right_color=blue&left_text=downloads/month)](https://pepy.tech/project/paintprint)
+[![Downloads](https://static.pepy.tech/personalized-badge/paintprint?period=week&units=international_system&left_color=grey&right_color=blue&left_text=downloads/week)](https://pepy.tech/project/paintprint)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/PaintPrint)](https://pypi.org/project/paintprint)
+[![Version](https://img.shields.io/pypi/v/PaintPrint)](https://pypi.org/project/paintprint)
+[![](https://img.shields.io/pypi/format/PaintPrint)](https://pypi.org/project/paintprint)
+[![](https://img.shields.io/pypi/wheel/PaintPrint)](https://pypi.org/project/paintprint)
+
+
 [![github](https://img.shields.io/badge/-git%20hub-black?style=for-the-badge&logo=github)](https://github.com/tankalxat34/PaintPrint)
+[![PyPi](https://img.shields.io/badge/-pypi-006DAD?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/paintprint)
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/tankalxat34/PaintPrint?style=social)](https://github.com/tankalxat34/PaintPrint)
 
