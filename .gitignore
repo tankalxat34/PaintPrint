@@ -132,3 +132,6 @@ dmypy.json
 .idea
 *.bat
 test.py
+_png
+*.pdn
+logobase.txt
