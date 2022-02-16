@@ -71,4 +71,4 @@ Result:
 # All functions
 Open [test file](https://github.com/tankalxat34/PaintPrint/blob/main/test_PaintPrint.py) and perform in your PC. You will see something like this:
 
-<img src="https://sun9-37.userapi.com/impg/NWYKY66TbieKB8XnhJmfrUvzwE9DQIeEwKApaQ/IOxQmPAm2Ys.jpg?size=1009x959&quality=96&sign=cd7ce7251d980a6cbbb8cea85c6d42d8&type=album"/>
+<img src="https://sun9-39.userapi.com/impg/VzEtW2WJoBX37m6zyyrjDf9noyGUKohwh46anw/r5wucWxwvkA.jpg?size=1009x958&quality=96&sign=8f395cd0f04033f38704aa7a5d20b724&type=album"/>
