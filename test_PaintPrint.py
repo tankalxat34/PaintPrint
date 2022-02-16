@@ -41,7 +41,7 @@ bprint("Copper", BACKGROUND.COPPER)
 
 print()
 
-bprint("COLORS - BACKGROUND",
+bprint("COLORS - FOREGROUND",
        FORMATTING.BORDERED,
        FORMATTING.BOLD,
        FOREGROUND.MAGENTA,
